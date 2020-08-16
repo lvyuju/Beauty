@@ -1,0 +1,310 @@
+.B_body {
+  margin: 0 8px 100px;
+  
+}
+
+.B_one {
+  width: 100%;
+  height: auto;
+}
+
+.one_a {
+  display: block;
+  font-size: 22px;
+  color: #333;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+.B_one ul {
+  width: 100%;
+}
+.B_one ul li:nth-child(1) {
+  font-size: 18px;
+  font-weight: 600;
+}
+.B_one ul li:nth-child(2) {
+  font-size: 16px;
+  color: #666;
+}
+
+/* 第二部分 */
+.B_two {
+  width: 100%;
+}
+
+.B_two h3 {
+  margin: 10px 0;
+  font-size: 22px;
+  font-weight: 600;
+  text-align: center;
+  color: #333;
+}
+.B_two b {
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  font-weight: 600;
+}
+.B_two img {
+  margin-top: 10px;
+  width: 100%;
+  height: 100%;
+}
+
+/* 第三部分 */
+.B_three {
+  width: 100%;
+}
+.B_three h3 {
+  margin: 10px 0;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.B_three p {
+  font-size: 16px;
+  line-height: 24px;
+}
+.three_one {
+  margin: 10px 0;
+  width: 100%;
+}
+
+/* 第四部分 */
+.B_four {
+  width: 100%;
+}
+.B_four h3 {
+  margin: 10px 0;
+  font-size: 22px;
+  font-weight: 600;
+}
+.four_one {
+  margin: 10px 0;
+}
+
+/* 第五部分 */
+.B_free {
+  width: 100%;
+}
+.B_free h3 {
+  margin: 10px 0;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.free_one {
+  margin: 10px 0;
+}
+
+.B_six {
+  width: 100%;
+}
+.B_six h3 {
+  margin: 10px 0;
+  font-size: 22px;
+  font-weight: 600;
+}
+.six_one {
+  display: block;
+  margin: 10px 0;
+  color: #f40;
+  font-size: 16px;
+}
+.B_sevent {
+  width: 100%;
+}
+
+.B_sevent h3 {
+  margin: 10px 0;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.sevent_one ul {
+  width: 100%;
+  height: 100%;
+}
+.sevent_one ul li{
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.sevent_one ul li:nth-child(2) {
+  margin: 10px 0;
+}
+.sevent_one ul li:nth-child(3) {
+  margin: 10px 0;
+}
+
+/* 第八部分 */
+.B_eight{
+  width: 100%;
+}
+.B_eight h3{
+  margin: 10px 0;
+  font-size: 22px;
+  font-weight: 600;
+
+}
+.eight_one{
+  width: 100%;
+}
+.eight_two{
+  width: 100%;
+
+}
+.eight_two h4{
+  margin: 5px 0;
+  font-size: 18px;
+  font-weight: 600;
+}
+/* 第九部分 */
+.B_nine{
+  width: 100%;
+}
+.B_nine h3{
+  margin: 10px 0;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+.B_nine img{
+  display: block;
+  margin: 0 auto;
+  width: 70%;
+  
+}
+.nine_one li em{
+  font-weight: 600;
+}
+.nine_one li {
+  line-height: 24px;
+  font-size: 16px;
+  color: #333;
+}
+.nine_one li h4{
+  font-size: 18px;
+  font-weight: 600;
+  margin: 5px 0;
+}
+.nine_two img{
+  width: 100%;
+  height: 100%;
+  margin: 10px 0;
+}
+
+/* 第十部分 */
+.B_ten{
+  width: 100%;
+
+}
+
+.B_ten h3{
+  margin: 10px 0 5px 0;
+  font-size: 22px;
+  font-weight: 600;
+
+}
+
+.B_ten p{
+  line-height: 24px;
+  font-size: 16px;
+  text-indent: 10px;
+  letter-spacing: 2px;
+}
+.B_ten i{
+  display: block;
+  margin: 10px 0;
+  font-size: 14px;
+  color: #f40;
+  font-weight: 600;
+}
+
+/* 评论 */
+
+.B_pinlun{
+  width: 100%;
+}
+.B_pinlun h1{
+  display: block;
+  margin-top: 10px;
+  text-align: center;
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+}
+
+.pinlun_one{
+  width: 100%;
+}
+
+.pinlun_two{
+  margin-top: 20px;
+}
+
+.pinlun_two img{
+  width: 10%;
+  display: inline-block;
+  vertical-align: middle;
+}
+.pinlun_tit {
+  display: inline-block;
+  color: blue;
+  font-size: 16px;
+
+}
+
+.pinlun_three{
+  width: 100%;
+}
+
+.pinlun_three i{
+  font-size: 16px;
+  display: block;
+  text-indent: 10px;
+  margin-bottom: 10px;
+}
+
+
+
+
+
+
+/* 定位部分 */
+
+.B_bottom {
+  width: 100%;
+  height: 100px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+}
+.bottom_one {
+  margin-top: 20px;
+  height: 100%;
+}
+.B_bot{
+  width: 25%;
+  float: left;
+}
+.B_bot img{
+  width: 80%;
+  margin: auto;
+}
+.B_mot{
+  width: 25%;
+  float: left;
+}
+.B_mot img{
+  width: 80%;
+  margin: auto;
+}
+.B_rot{
+  width: 50%;
+  float: left;
+}
+.B_rot img{
+  margin: auto;
+}
